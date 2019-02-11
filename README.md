@@ -1,3 +1,26 @@
+## teraranger (kinetic) - 2.0.1-0
+
+The packages in the `teraranger` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release teraranger --track kinetic --rosdistro kinetic --new-track` on `Mon, 11 Feb 2019 14:27:53 -0000`
+
+The `teraranger` package was released.
+
+Version of package(s) in repository `teraranger`:
+
+- upstream repository: https://github.com/Terabee/teraranger.git
+- release repository: https://github.com/Terabee/teraranger-release.git
+- rosdistro version: `2.0.0-1`
+- old version: `2.0.0-1`
+- new version: `2.0.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.0`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## teraranger (kinetic) - 2.0.0-1
 
 The packages in the `teraranger` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release teraranger --track kinetic --ros-distro kinetic` on `Thu, 06 Dec 2018 14:34:11 -0000`
