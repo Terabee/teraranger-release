@@ -1,3 +1,26 @@
+## teraranger (melodic) - 2.1.0-1
+
+The packages in the `teraranger` repository were released into the `melodic` distro by running `/usr/bin/bloom-release teraranger --track melodic --rosdistro melodic --new-track` on `Fri, 03 May 2019 09:30:48 -0000`
+
+The `teraranger` package was released.
+
+Version of package(s) in repository `teraranger`:
+
+- upstream repository: https://github.com/Terabee/teraranger.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.40`
+
+
 ## teraranger (kinetic) - 2.1.0-2
 
 The packages in the `teraranger` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release teraranger --track kinetic --ros-distro kinetic` on `Fri, 03 May 2019 09:22:06 -0000`
