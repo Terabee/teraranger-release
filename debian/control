@@ -1,0 +1,12 @@
+Source: ros-melodic-teraranger
+Section: misc
+Priority: extra
+Maintainer: Krzysztof Żurad <krzysztof.zurad@terabee.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-dynamic-reconfigure, ros-melodic-roscpp, ros-melodic-sensor-msgs, ros-melodic-serial, ros-melodic-std-msgs
+Homepage: http://wiki.ros.org/teraranger
+Standards-Version: 3.9.2
+
+Package: ros-melodic-teraranger
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-dynamic-reconfigure, ros-melodic-roscpp, ros-melodic-sensor-msgs, ros-melodic-serial, ros-melodic-std-msgs
+Description: This package provides ros nodes for single sensors from Terabee
